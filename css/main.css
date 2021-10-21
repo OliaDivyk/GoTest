@@ -1,0 +1,34 @@
+* {
+    background-color: #EAE7DC;
+    font-family: "Gotham Pro";
+}
+.navbar {
+    padding-left: 54px;
+    margin-top: 35px;
+    padding-right: 44px;
+}
+
+.nav-link-text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 23px;
+    padding-left: 42px;
+    text-decoration: none;
+    color: #000;
+}
+
+.btn-start-test {
+    font-weight: 300;
+    font-size: 24px;
+    background-color: #E85A4F;
+    width: 260px;
+    height: 46px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 53px;
+}
